@@ -1,0 +1,8 @@
+{
+  "name": "starblocks",
+  "version": "0.0.1",
+  "description": "Blockchain developer nanodegree",
+  "main": "index.js",
+  "author": "Victor Ramayrat <victor@ephe.io>",
+  "license": "MIT"
+}
